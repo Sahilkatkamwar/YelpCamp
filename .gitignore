@@ -1,0 +1,4 @@
+node_modules
+.env
+seeds/index.js 
+seeds/cities.js 
